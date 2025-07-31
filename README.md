@@ -1,1 +1,4 @@
-# video-automation-gcp
+# YouTube Automation Web App
+Run:
+bash setup.sh
+
